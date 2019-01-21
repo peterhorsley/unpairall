@@ -8,4 +8,4 @@ This app will un-pair (forget) all bluetooth connections currently stored on thi
 Open in Android Studio and hit build.  
 
 ### Download
-Get it on the Play Store.
+Get it on the <a href="https://play.google.com/store/apps/details?id=com.zornsoftware.unpairall">Play Store</a>.
